@@ -1,5 +1,5 @@
 # University_Tests_System
-Most of the classes in this project modules a certain type of entity related to the university tests system.
+Most of the classes in this project modles a certain type of entity related to the university tests system.
 
 # GUI
 * First of you need to copy the path of the txt file (12StudentsData) to the this class in line 106, afterwards you'd be able to run the project.
